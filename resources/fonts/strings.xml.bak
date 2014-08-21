@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>title</key>
+	<string>年年Kan</string>
+	<key>button</key>
+	<string>Begin</string>
+	<key>load</key>
+	<string>loading.</string>
+	<key>quit_game</key>
+	<string>同意</string>
+</dict>
+</plist>
