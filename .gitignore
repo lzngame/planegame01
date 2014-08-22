@@ -1,0 +1,8 @@
+# Compiled Object files  注释
+*.a                 #忽略 .a 扩展名的文件
+！lib.a             #但是 lib.a 不忽略
+/TODO               #只忽略此目录下的 TODO文件，子目录的 TODO 不忽略
+build/              #只忽略所有的 build/ 目录下文件
+doc/*.txt           #忽略如 doc/notes.txt,但是不忽略如 doc/server/arch.txt
+
+Classes/*.txt       #忽略 Classes 下面的txt 文件 
