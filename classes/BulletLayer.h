@@ -5,7 +5,7 @@
 USING_NS_CC;
 
 class BulletLayer :public Layer{
-private:
+public:
 	Vector<Sprite*> vecBullet;
 public:
 	BulletLayer();

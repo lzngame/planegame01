@@ -22,6 +22,8 @@ bool ControlLayer::init(){
 	Menu * menuPause = Menu::create(pPauseItem,nullptr);
 	menuPause->setPosition(Point::ZERO);
 	this->addChild(menuPause);
+
+	
 	return true;
 }
 

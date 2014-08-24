@@ -27,7 +27,7 @@ private:
 	bool enemyCollisionPlane();
 	void CreateMoveBg(int,char*);
 	void SetLoopBg();
-	 
+	
 	
 public:
 	PlaneLayer* planeLayer;

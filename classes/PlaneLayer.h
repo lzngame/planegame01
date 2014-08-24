@@ -19,6 +19,7 @@ public :
 
 public:
 	static PlaneLayer* sharedPlane;
+	void setTouchHandle(Node*);
 	bool isAlive;
 
 };
